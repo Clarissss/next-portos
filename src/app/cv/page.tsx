@@ -354,9 +354,6 @@ export default function CVPage() {
                 <p className="text-gray-600 text-sm">TechStart Solutions Hackathon • 2023</p>
               </div>
             </div>
-            <div className="flex items-start space-x-3">
-              <Award className="w-5 h-5 text-purple-600 mt-1 flex-shrink-0" />
-            </div>
           </div>
         </section>
 
