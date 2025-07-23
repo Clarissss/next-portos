@@ -40,7 +40,7 @@ export default function Home() {
             <div className="space-y-8">
               <div className="space-y-4">
                 <h1 className="text-5xl lg:text-6xl font-bold text-gray-900">
-                  Hi, I'm{" "}
+                  Hi, Im{" "}
                   <span className="bg-gradient-to-r from-purple-600 via-pink-600 to-blue-600 bg-clip-text text-transparent">
                     Egi
                   </span>
@@ -102,7 +102,7 @@ export default function Home() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               <p className="text-lg text-gray-700 leading-relaxed">
-              I'm a fresh graduate in software engineering with hands-on experience in building web and mobile applications through various freelance projects. My journey in programming began during college, where I discovered a passion for creating digital solutions that solve real-world problems.
+              Im a fresh graduate in software engineering with hands-on experience in building web and mobile applications through various freelance projects. My journey in programming began during college, where I discovered a passion for creating digital solutions that solve real-world problems.
               </p>
               <div className="grid grid-cols-2 gap-6">
                 <div>
@@ -316,9 +316,9 @@ export default function Home() {
       {/* Contact Section */}
       <section id="contact" className="py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl font-bold text-gray-900 mb-4">Let's Work Together</h2>
+          <h2 className="text-4xl font-bold text-gray-900 mb-4">Lets Work Together</h2>
           <p className="text-xl text-gray-600 mb-8">
-            Ready to bring your ideas to life? Let's create something amazing together!
+            Ready to bring your ideas to life? Lets create something amazing together!
           </p>
           <div className="grid md:grid-cols-3 gap-8 mb-12">
             <div className="space-y-4">

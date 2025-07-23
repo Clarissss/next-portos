@@ -356,10 +356,6 @@ export default function CVPage() {
             </div>
             <div className="flex items-start space-x-3">
               <Award className="w-5 h-5 text-purple-600 mt-1 flex-shrink-0" />
-              <div>
-                <h4 className="font-semibold text-gray-900">Dean's List</h4>
-                <p className="text-gray-600 text-sm">Tokyo Institute of Technology • 2021, 2022</p>
-              </div>
             </div>
           </div>
         </section>
